@@ -1,0 +1,8 @@
+Usar DTO
+Validações usando  o DTO
+Tratamentos de erros
+Fazer hash de senha usando o argon
+Autenticação (Framework Passport)
+Prisma 
+
+
