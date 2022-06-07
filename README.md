@@ -24,7 +24,18 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Conhecimentos adquiridos no curso:
+
+- Nestjs-CLI
+- Nestjs Modules
+- Autenticação (Framework Passport e JWT)
+- Usar DTO (Data Tranfer Object)
+- Validações de dados usando o DTO
+- Tratamentos de erros
+- Guards
+- Decorator
+- Fazer hash de senha usando o argon
+- Prisma com docker
 
 ## Installation
 
